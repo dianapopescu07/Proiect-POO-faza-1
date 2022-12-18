@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\An III - sem I\POO - recuperare\Proiect\Ticketing App\Proiect POO - Ticketing App\Main.cpp(20,72): error C2664: 'Bilet::Bilet(const char *,std::string,std::string,int,const char *,float)': cannot convert argument 5 from 'initializer list' to 'const char *'
+D:\An III - sem I\POO - recuperare\Proiect\Ticketing App\Proiect POO - Ticketing App\Main.cpp(20,51): message : The initializer contains too many elements
+D:\An III - sem I\POO - recuperare\Proiect\Ticketing App\Proiect POO - Ticketing App\Bilet.cpp(32,2): message : see declaration of 'Bilet::Bilet'
